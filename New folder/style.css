@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(136, 136, 255);
+    text-align: center;
+}
+footer {
+    background-color: rgb(136, 136, 255);
+}
+.nav-left li {
+    float: left;
+}
+
+.nav-right li {
+    float: right;
+}
+
+nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
